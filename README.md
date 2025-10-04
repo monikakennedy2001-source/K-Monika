@@ -68,7 +68,8 @@ I am a **data science enthusiast** transitioning into IT. I have hands-on experi
 
 ## 🎓 Certifications & Courses
 
-- **IITM - GUVI Master Data Science Program**  
+- **IITM Certified Programming Professional & Master Data Science Program**
+  IIT Madras & GUVI GEEK NETWORK PRIVATE LIMITED
 
 ---
 
